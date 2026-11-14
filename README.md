@@ -182,25 +182,35 @@ Screenshots of the `networkwalks.com` investigation showing the email-address fi
 
 Screenshot showing the local network scan, discovered live hosts, and relevant IP and MAC address information.
 
-![Evidence 2 – Zenmap Scan](Zenmap.png)
+![Evidence 2 – Zenmap Scan](Zenmap_Live_Hosts.png)
 
 ### Evidence 3 – Zenmap Network Topology
 
 Screenshot of the network topology generated using Zenmap.
 
-![Evidence 3 – Zenmap Topology](evidence/02-Zenmap/zenmap-topology.png)
+![Evidence 3 – Zenmap Topology](Zenmap.png)
 
 ### Evidence 4 – theHarvester (Baidu)
 
 Screenshot showing the Baidu source configuration and the results returned for `microsoft.com`.
 
-![Evidence 4 – theHarvester Baidu](evidence/03-theHarvester-Baidu/baidu-results.png)
+![Evidence 4 – theHarvester Baidu](theHaverster_Task_1Screenshot1.png)
 
 ### Evidence 5 – theHarvester (All Sources)
 
 Screenshot showing the all-sources configuration and the resulting output for `microsoft.com`.
 
-![Evidence 5 – theHarvester All Sources](evidence/04-theHarvester-All-Sources/all-sources-output.png)
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot1.png)
+
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot2.png)
+
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot3.png)
+
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot4.png)
+
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot5.png)
+
+![Evidence 5 – theHarvester All Sources](theHaverster_Task_2Screenshot6.png)
 
 ---
 
