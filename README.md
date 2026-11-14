@@ -173,7 +173,7 @@ The following screenshots provide supporting evidence of the practical activitie
 
 Screenshot of the `networkwalks.com` investigation showing the email-address findings.
 
-![Evidence 1 – Maltego](evidence/01-Maltego/maltego-results.png)
+![Evidence 1 – Maltego](evidence/maltego1.png)
 
 ### Evidence 2 – Zenmap Network Scan
 
