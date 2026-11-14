@@ -171,15 +171,18 @@ The following screenshots provide supporting evidence of the practical activitie
 
 ### Evidence 1 – Maltego
 
-Screenshot of the `networkwalks.com` investigation showing the email-address findings.
+Screenshots of the `networkwalks.com` investigation showing the email-address findings.
 
 ![Evidence 1 – Maltego](Maltego1.png)
+
+
+![Evidence 1 – Maltego](Maltego2.png)
 
 ### Evidence 2 – Zenmap Network Scan
 
 Screenshot showing the local network scan, discovered live hosts, and relevant IP and MAC address information.
 
-![Evidence 2 – Zenmap Scan](evidence/02-Zenmap/zenmap-scan.png)
+![Evidence 2 – Zenmap Scan](Zenmap.png)
 
 ### Evidence 3 – Zenmap Network Topology
 
